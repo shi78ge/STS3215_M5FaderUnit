@@ -16,13 +16,16 @@ https://user-images.githubusercontent.com/67863963/164896353-16cad23a-de84-4299-
 | M5Core2 |  |https://www.switch-science.com/catalog/6530/ |
 | M5Core2BaseLite|Groveポートを拡張するボード。ポートBを使うために必要|https://www.switch-science.com/catalog/6763/ |
 |M5 FaderUnit|ポテンショメータ|https://www.switch-science.com/catalog/7479/|
-|モバイルバッテリ|USBケーブルを加工してケーブル引き出し||  
+|モバイルバッテリ|USBケーブルを加工して配線引き出し||  
   
 ## 使用ソフトウェア
 サーボ動作ライブラリ(SCServo.zip)  
 上記STS3215の秋月電子のサイトから入手可能  
 
 ## 接続
-![image](https://user-images.githubusercontent.com/67863963/164896290-cdc9530b-bd9a-443f-9145-aa39f3796a4b.png)
-
-
+![image](https://user-images.githubusercontent.com/67863963/164896290-cdc9530b-bd9a-443f-9145-aa39f3796a4b.png)  
+  
+## Reference
+- [Feetech-Sweep
+](https://github.com/botamochi6277/Feetech-Sweep)  
+- [FADER sample](https://github.com/m5stack/M5Stack/tree/master/examples/Unit/FADER)  
