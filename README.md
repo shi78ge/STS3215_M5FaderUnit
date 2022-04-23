@@ -1,5 +1,10 @@
 # STS3215_M5FaderUnit
-https://user-images.githubusercontent.com/67863963/164894669-ab5b3075-45d6-40bd-a993-e65e98c63083.mp4  
+
+
+https://user-images.githubusercontent.com/67863963/164896353-16cad23a-de84-4299-8be0-48ccd294d0e6.mp4
+
+
+  
 シリアルサーボSTS3215をM5Core2+FaderUnitで動作させたサンプルです。 
   
   
